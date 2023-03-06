@@ -16,5 +16,4 @@ console.log("Produto: " + nome
 + ", Preço Final: " + precoComDesconto);    
 
 console.log(1+1);// Será igual a 2
-console.log("1"+1)// Se colocar um numero entre aspas e outro fora das aspas, juntara os numeros e fica 11
-
+console.log("1"+1)// Se colocar um numero entre aspas e outro fora das aspas, juntara os numeros e fica
